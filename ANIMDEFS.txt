@@ -1,0 +1,68 @@
+texture wfall1
+
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+
+texture lfall1
+
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+
+texture impse1
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+
+texture bwfall1
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+
+texture DPORTAL1
+
+  pic 1 tics 3
+  pic 2 tics 3
+  pic 3 tics 3
+  pic 4 tics 3
+  pic 5 tics 3
+  pic 6 tics 3
+  pic 7 tics 3
+  pic 8 tics 3
+  pic 9 tics 3
+
+texture BPORTAL1
+
+  pic 1 tics 3
+  pic 2 tics 3
+  pic 3 tics 3
+  pic 4 tics 3
+  pic 5 tics 3
+  pic 6 tics 3
+  pic 7 tics 3
+  pic 8 tics 3
+  pic 9 tics 3
+
+
+warp flat fwater
+warp flat nukage
+warp flat slime
+warp flat lava
+warp flat blood
+warp flat NFGSLM01
+warp flat wblood
+warp flat wfwater
+warp flat qlava
+warp flat wrpwatr
+warp flat DWWATRRD
+warp flat OIL1
+warp flat WLAVA
+warp flat WNUKAGE
+
+switch DRSWC01A on pic DRSWC01B tics 8 sound Switch1
+switch DRSWC02A on pic DRSWC02B tics 8 sound Switch1
+

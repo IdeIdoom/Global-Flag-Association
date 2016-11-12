@@ -1,0 +1,134 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd2 0.60 build 212
+
+# General version information
+Doom version = 21
+Patch format = 6
+
+Thing 57 (Invulnerability)
+Hit points = 0
+Reaction time = 0
+Width = 720896
+Height = 3932160
+Bits = SOLID
+
+Thing 61 (Computer Map)
+Reaction time = 0
+Width = 786432
+Height = 5242880
+Bits = SOLID
+
+Thing 87 (Pillar w/Skull)
+Height = 1572864
+
+Thing 88 (Pillar w/Heart)
+Height = 1572864
+
+Thing 102 (Swaying Body)
+Reaction time = 0
+Width = 1114112
+Height = 2621440
+Bits = SOLID
+
+Thing 103 (Hanging Arms Out)
+Reaction time = 0
+Width = 917504
+Height = 3932160
+Bits = SOLID
+
+Thing 104 (One-legged Body)
+Reaction time = 0
+Width = 917504
+Height = 3932160
+Bits = SOLID
+
+Thing 105 (Hanging Torso)
+Reaction time = 0
+Width = 1114112
+Height = 2621440
+Bits = SOLID
+
+
+
+Frame 174
+Sprite subnumber = 32768
+Duration = -1
+Next frame = 29
+
+Frame 207
+Sprite subnumber = 32768
+Duration = -1
+Next frame = 30
+
+Frame 406
+Sprite subnumber = 32768
+Duration = -1
+Next frame = 406
+
+Frame 442
+Sprite subnumber = 32768
+Duration = -1
+Next frame = 442
+
+Frame 475
+Duration = -1
+Next frame = 475
+
+Frame 585
+Sprite subnumber = 0
+Duration = -1
+Next frame = 585
+
+Frame 726
+Duration = -1
+Next frame = 726
+
+Frame 848
+Duration = 4
+
+Frame 849
+Duration = 4
+
+Frame 850
+Duration = 4
+
+Frame 851
+Duration = 4
+
+Frame 862
+Duration = 4
+
+Frame 863
+Duration = 4
+
+Frame 864
+Duration = 4
+
+Frame 865
+Duration = 4
+Next frame = 862
+
+Frame 902
+Sprite subnumber = 32768
+
+Frame 903
+Sprite subnumber = 32768
+
+Frame 910
+Sprite subnumber = 32768
+
+Frame 913
+Sprite subnumber = 32768
+
+
+[CODEPTR]
+Frame 174 = NULL
+Frame 207 = NULL
+Frame 406 = NULL
+Frame 442 = NULL
+Frame 475 = NULL
+Frame 585 = NULL
+Frame 726 = NULL
+
+
+

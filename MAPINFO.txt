@@ -1,0 +1,153 @@
+map MAP01 "Fortress Collision - ZDCTF01"
+ sky1 rsky1 0.0
+ music d_runnin
+ 
+map MAP02 "And Hell Captured - VeloCTF03"
+ sky1 rsky1 0.0
+ music d_stalks
+ 
+map MAP03 "Exophase - ZDCTF03"
+ sky1 rsky1 0.0
+ music d_countd
+ 
+map MAP04 "R's...Magical Ice Forts - ZDCTF04"
+ sky1 rsky1 0.0
+ music d_betwee
+ 
+map MAP05 "Data Core Delta - CHAOSCORE01"
+ sky1 rsky2 0.0
+ sky2 rsky1 0.0
+ music d_doom
+ 
+map MAP06 "Lazarus Revisited - SMARTCTF01"
+ sky1 rsky1 0.0
+ music d_the_da
+ 
+map MAP07 "Obsidian Outpost v1 - CORECTF09"
+ sky1 rsky2 0.0
+ music d_shawn
+ 
+map MAP08 "Something Epic - ZDCTF08"
+ sky1 rsky1 0.0
+ music d_stmnt
+ 
+map MAP09 "Compulsive Simplicity - CORECTF27"
+ sky1 rsky1 0.0
+ music d_in_cit
+ 
+map MAP10 "Towering Gardens - CoreCTF24"
+sky1 STSKY7 0.0
+music  d_dead
+ 
+ map MAP11 "Charon Orbit - VeloCTF31"
+sky1 dskyesl1 0.0
+ music d_stlks2
+ 
+map MAP12 "N's...Manse of Destruct. - THIRTY4-16"
+ sky1 rsky1 0.0
+ music d_theda2
+ 
+map MAP13 "A's...Base of Boppin' - THIRTY4-13"
+ sky1 rsky1 0.0
+ music d_doom2
+ 
+ map MAP14 "Gun Shy - VeloCTF04"
+sky1 SKY8 0.0
+music d_ddtbl2
+ 
+map MAP15 "Mercurial - RageCTF09"
+ sky1 06sky 0.0
+ music d_runni2
+ 
+map MAP16 "Circuit Course - CORECTF29"
+ sky1 rsky1 0.0
+ music d_dead2
+ 
+map MAP17 "Buntaluffigus - THIRTY4-17"
+ sky1 rsky1 0.0
+ music d_stlks3
+ 
+map MAP18 "Complex Epsilon - RageCTF19"
+ sky1 rsky1 0.0
+ music d_romero
+ 
+map MAP19 "Collision - IDLCONT11-20"
+ sky1 rsky1 0.0
+ music d_shawn2
+ 
+map MAP20 "Cold Sweats - ZDECTF2-01"
+ sky1 rsky1 0.0
+ music d_messag
+ 
+map MAP21 "Scary Flaggers/Nice Sprites - THIRTY12-11"
+ sky1 rsky1 0.0
+ music d_count2
+ 
+map MAP22 "Gargantuan Retarded - THIRTY7-22"
+ sky1 rsky1 0.0
+ music d_ddtbl3
+ 
+map MAP23 "Crypts of the Damned - RAGECTF06"
+ sky1 rsky2 0.0
+ music d_ampie
+ 
+map MAP24  "Insane Gunslinger Compound - THIRTY7-27"
+ sky1 rsky1 0.0
+ music d_theda3
+ 
+map MAP25 "Infection - RageCTF07"
+sky1 dksky7 0.0
+ music d_adrian
+ 
+map MAP26 "Status: Idle - ZDCTF26"
+ sky1 rsky1 0.0
+ music d_messg2
+ 
+map MAP27 "Sentinel - CORECTF17"
+ sky1 rsky1 0.0
+ music d_romer2
+ 
+map MAP28 "Isolation - CHAOSCORE11"
+ sky1 rsky1 0.0
+ music d_tense
+ 
+map MAP29 "Toxic Refineries - ZDECTF2-19"
+ sky1 rsky1 0.0
+ music d_shawn3
+ 
+map MAP30 "Redemption II - ZDU30"
+ sky1 rsky1 0.0
+ music d_openin
+ 
+map MAP31 "Mountain Zero - THIRTY4-31"
+ sky1 rsky1 0.0
+ music d_evil
+ 
+map MAP32 "Collision II - CORECTF99"
+ sky1 rsky1 0.0
+ music d_ultima
+ 
+map MAP33 "Sewers Smell Okay - ZDCTF15"
+ sky1 rsky2 0.0
+ music d_map33
+ 
+map MAP34 "Two Seasons - RageCTF16"
+ sky1 stsky7 0.0
+ sky2 sky8 0.0
+ music d_map34
+ 
+map S01 "Cidazz - IDLCONT11-07"
+ sky1 rsky1 0.0
+ music d_s01
+ 
+ map S02 "[Core]T Facility - CoreCTF16"
+sky1 SKBLUP 0.0
+music d_s02
+  
+ map S03 "Andrigal II - REAKUCTF01"
+ sky1 rsky1 0.0
+ music d_s03
+  
+ map S04 "The Old Castle - ZDCTF18"
+ sky1 rsky1 0.0
+ music d_s04
