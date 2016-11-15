@@ -51,16 +51,16 @@ map MAP13 "A's...Base of Boppin' - THIRTY4-13"
  sky1 rsky1 0.0
  music d_doom2
  
- map MAP14 "Gun Shy - VeloCTF04"
-sky1 SKY8 0.0
+ map MAP14 "Mephitic Waste - CORE26"
+ sky1 STRYC1 0.0
 music d_ddtbl2
  
 map MAP15 "Mercurial - RageCTF09"
  sky1 06sky 0.0
  music d_runni2
  
-map MAP16 "Circuit Course - CORECTF29"
- sky1 rsky1 0.0
+map MAP16 "Return To Phobos - ZDCTF16"
+ sky1 rsky6 0.0
  music d_dead2
  
 map MAP17 "Buntaluffigus - THIRTY4-17"
@@ -131,23 +131,6 @@ map MAP33 "Sewers Smell Okay - ZDCTF15"
  sky1 rsky2 0.0
  music d_map33
  
-map MAP34 "Two Seasons - RageCTF16"
- sky1 stsky7 0.0
- sky2 sky8 0.0
+map MAP34 "Toxic Refineres II - CORE29"
+ sky1 sky3 0.0
  music d_map34
- 
-map S01 "Cidazz - IDLCONT11-07"
- sky1 rsky1 0.0
- music d_s01
- 
- map S02 "[Core]T Facility - CoreCTF16"
-sky1 SKBLUP 0.0
-music d_s02
-  
- map S03 "Andrigal II - REAKUCTF01"
- sky1 rsky1 0.0
- music d_s03
-  
- map S04 "The Old Castle - ZDCTF18"
- sky1 rsky1 0.0
- music d_s04

@@ -23,6 +23,20 @@ pic 2 tics 5
 pic 3 tics 5
 pic 4 tics 5
 
+texture stryc1
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+pic 5 tics 5
+pic 6 tics 5
+pic 7 tics 5
+pic 8 tics 5
+pic 9 tics 5
+pic 10 tics 5
+pic 11 tics 5
+pic 12 tics 5
+
 texture DPORTAL1
 
   pic 1 tics 3

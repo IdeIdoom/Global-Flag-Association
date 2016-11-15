@@ -1,4 +1,2 @@
--Replace Map14 with Map14 from WDL2016
--Replace Map16 with Map16 from WDL2016
--Replace Map34 with Map11 from WDL2016
--Remove SXX Maps
+-Find missing textures
+-Control errors
