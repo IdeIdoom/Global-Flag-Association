@@ -1,4 +1,4 @@
 -Fix missing textures and offset textures on Map16 - DONE
 -Replace current Map25 with the old (snow) Map25 - DONE
--Fix the year (from 2016 to 2017) on GRAPHICS and some TEXTURES
+-Fix the year (from 2016 to 2017) on GRAPHICS and some TEXTURES - DONE
 -Replace Map08's music with the original - DONE
