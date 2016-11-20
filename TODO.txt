@@ -1,2 +1,2 @@
--Find missing textures
--Control errors
+-Fix the year (from 2016 to 2017) on GRAPHICS and some TEXTURES
+-Replace Map08's music with the original
