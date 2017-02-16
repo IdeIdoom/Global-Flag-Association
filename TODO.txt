@@ -2,3 +2,6 @@
 -Replace current Map25 with the old (snow) Map25 - DONE
 -Fix the year (from 2016 to 2017) on GRAPHICS and some TEXTURES - DONE
 -Replace Map08's music with the original - DONE
+Replace map05 with proctf18 - DONE
+Replace map07 with proctf21 - DONE
+Replace map27 with proctf25 - DONE

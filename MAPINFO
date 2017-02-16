@@ -14,18 +14,17 @@ map MAP04 "R's...Magical Ice Forts - ZDCTF04"
  sky1 rsky1 0.0
  music d_betwee
  
-map MAP05 "Data Core Delta - CHAOSCORE01"
- sky1 rsky2 0.0
- sky2 rsky1 0.0
- music d_doom
+map map05 "Agressive Advance - PROCTF18"
+sky1 bksky1 0.0
+music d_doom
  
 map MAP06 "Lazarus Revisited - SMARTCTF01"
  sky1 rsky1 0.0
  music d_the_da
  
-map MAP07 "Obsidian Outpost v1 - CORECTF09"
- sky1 rsky2 0.0
- music d_shawn
+map map07 "Freakin' Hot - PROCTF21"
+sky1 STSKY7 0.1
+music d_shawn
  
 map MAP08 "Something Epic - ZDCTF08"
  sky1 rsky1 0.0
@@ -107,9 +106,9 @@ map MAP26 "Status: Idle - ZDCTF26"
  sky1 rsky1 0.0
  music d_messg2
  
-map MAP27 "Sentinel - CORECTF17"
- sky1 rsky1 0.0
- music d_romer2
+map map27 "Fort Tundra - PROCTF25"
+sky1 stsky2 0.0
+music d_romer2
  
 map MAP28 "Isolation - CHAOSCORE11"
  sky1 rsky1 0.0

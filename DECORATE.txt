@@ -1,0 +1,46 @@
+ACTOR RedHealthBonus : Health 6666
+{
+	Game Doom
+	SpawnID 152
+	+COUNTITEM
+	+INVENTORY.ALWAYSPICKUP
+	Inventory.Amount 1
+	Inventory.MaxAmount 200
+	Inventory.PickupMessage "Picked up a health bonus."
+	States
+	{
+	Spawn:
+		BON3 ABCDCB 6
+		Loop
+	}
+}
+
+ACTOR RedCandleStick 5156
+{
+	Game Doom
+	Game Heretic
+	Game Hexen
+	Radius 20
+	Height 14
+	States
+	{
+	Spawn:
+		CANR A -1 BRIGHT
+		Stop
+	}
+}
+
+ACTOR BlueCandleStick 5157
+{
+	Game Doom
+	Game Heretic
+	Game Hexen
+	Radius 20
+	Height 14
+	States
+	{
+	Spawn:
+		CANB A -1 BRIGHT
+		Stop
+	}
+}
