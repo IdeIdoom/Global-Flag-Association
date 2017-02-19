@@ -4,3 +4,5 @@ MAPS/map16.wad.backup1
 zaza.wad
 EXTRACTEDTEXTURES/*.*
 *.bak
+*.backup*
+*.zip

@@ -76,6 +76,8 @@ warp flat DWWATRRD
 warp flat OIL1
 warp flat WLAVA
 warp flat WNUKAGE
+warp flat nukwrp
+warp flat WQLAVA
 
 switch DRSWC01A on pic DRSWC01B tics 8 sound Switch1
 switch DRSWC02A on pic DRSWC02B tics 8 sound Switch1
