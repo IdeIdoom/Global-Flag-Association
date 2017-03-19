@@ -14,8 +14,8 @@ map MAP04 "R's...Magical Ice Forts - ZDCTF04"
  sky1 rsky1 0.0
  music d_betwee
  
-map map05 "Agressive Advance - PROCTF18"
-sky1 bksky1 0.0
+map map05 "Mercurial - RageCTF09"
+ sky1 06sky 0.0
 music d_doom
  
 map MAP06 "Lazarus Revisited - SMARTCTF01"
@@ -54,8 +54,8 @@ map MAP13 "A's...Base of Boppin' - THIRTY4-13"
  sky1 STRYC1 0.0
 music d_ddtbl2
  
-map MAP15 "Mercurial - RageCTF09"
- sky1 06sky 0.0
+map MAP15 "Sewers Smell Okay - ZDCTF15"
+ sky1 rsky2 0.0
  music d_runni2
  
 map MAP16 "Return To Phobos - ZDCTF16"
@@ -90,7 +90,7 @@ map MAP23 "Crypts of the Damned - RAGECTF06"
  sky1 rsky2 0.0
  music d_ampie
  
-map MAP24  "Insane Gunslinger Compound - THIRTY7-27"
+map MAP24  "Sanctum - RAGECTF04"
  sky1 rsky1 0.0
  music d_theda3
  
@@ -130,8 +130,8 @@ map MAP32 "Collision II - CORECTF99"
  sky1 rsky1 0.0
  music d_ultima
  
-map MAP33 "Sewers Smell Okay - ZDCTF15"
- sky1 rsky2 0.0
+map MAP33 "Insane Gunslinger Compound - THIRTY7-27"
+ sky1 rsky1 0.0
  music d_map33
  
 map MAP34 "Toxic Refineres II - CORE29"
