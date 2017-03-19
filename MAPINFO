@@ -98,10 +98,6 @@ map MAP25 "Infection - RageCTF07"
 sky1 rsky3 0.0
  music d_adrian
 
-map MAP25B "Infection - RageCTF07 - Version B"
-sky1 dksky7 0.0
- music d_adrian
-
 map MAP26 "Status: Idle - ZDCTF26"
  sky1 rsky1 0.0
  music d_messg2
